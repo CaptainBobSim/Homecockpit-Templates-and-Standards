@@ -1,0 +1,29 @@
+--Feel free to adjust this to fit your needs, don't let these get in the way of creating--
+
+Design Issues:
+- [ ] Add Alignment nubs to parts that have decals
+
+Decals:
+- [ ] Decals Printer Friendly Version
+- [ ] Laser Engraving Friendly Version
+
+PCB Checklist
+- [ ] Ground Plane on bottom
+- [ ] Autoroute Traces
+- [ ] Write Version Number on PCB
+- [ ] Write all component names and pins
+
+Prototype Issues:
+- [ ] 
+
+Publishing Tasks:
+- [ ] Add Wiring diagram (Optional)
+- [ ] Partslist on ReadMe and fill out README
+- [ ] Rotate and export all STLs using Prusa for easy printability (no slicer rotate)
+- [ ] Mounting Template .DXF and maybe PDF
+- [ ] Attach .STEP and .f3d
+- [ ] MobiFlight .mfmc file
+- [ ] FS2020 Mobi .mcc
+- [ ] X-Plane Mobi .mcc
+- [ ] Include pictures in folder
+- [ ] Upload to Printables
