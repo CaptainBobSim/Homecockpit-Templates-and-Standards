@@ -1,0 +1,3 @@
+Standard Hole for instrument:
+4.50mm x 4.50mm (Male end)
+4.65mm x 4.65mm (Clearance, Female end)
